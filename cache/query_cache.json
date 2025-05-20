@@ -1,0 +1,11 @@
+{
+  "-8622502896483509044": {
+    "query": "Wie soll ich mit KI in meiner Bachelorarbeit umgehen?",
+    "answer": "[FEHLER] Anfrage an die Groq API fehlgeschlagen: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "passages": [],
+    "distances": [],
+    "retrieval_time": 0.2356882095336914,
+    "llm_time": 0.1937873363494873,
+    "from_cache": false
+  }
+}
