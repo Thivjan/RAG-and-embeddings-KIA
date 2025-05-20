@@ -7,5 +7,14 @@
     "retrieval_time": 0.2589905261993408,
     "llm_time": 10.844115495681763,
     "from_cache": false
+  },
+  "-6573403017159719613": {
+    "query": "Wie soll ich mit KI in meiner Bachelorarbeit umgehen?",
+    "answer": "**Einleitung in die Arbeit mit KI bei der Bachelorarbeit**\n\nDie Integration von Künstlicher Intelligenz (KI) in deine Bachelorarbeit kann sowohl Chancen als auch Herausforderungen mit sich bringen. Es ist wichtig, einen klaren und verantwortungsvollen Umgang mit KI-Technologien zu entwickeln, um die Qualität und Integrität deiner Arbeit zu gewährleisten.\n\n**Verantwortungsvoller Umgang mit KI**\n\n1. **Transparenz**: Wenn du KI-Tools oder -Dienste verwendest, solltest du dies klar in deiner Arbeit dokumentieren. Erwähne die spezifischen Tools oder Algorithmen, die du verwendet hast, und beschreibe, wie du sie eingesetzt hast.\n2. **Eigene Leistung**: Stelle sicher, dass du die KI-Tools nicht als Ersatz für deine eigene intellektuelle Leistung verwendest. Deine Bachelorarbeit sollte deine Fähigkeiten und Kenntnisse demonstrieren, nicht die Fähigkeiten eines KI-Systems.\n3. **Quellenangaben**: Wenn du KI-generierte Inhalte wie Texte oder Daten verwendest, solltest du diese Quellen korrekt zitieren. Beachte dabei die Richtlinien deiner Universität oder des gewählten Zitierstils.\n4. **Kritische Bewertung**: Beurteile die Ergebnisse und Ausgaben von KI-Systemen kritisch. KI-Systeme können Fehler oder Voreingenommenheiten enthalten, die du erkennen und korrigieren musst.\n\n**Praktische Tipps**\n\n- **Recherche**: Informiere dich über die verschiedenen KI-Tools und -Dienste, die für deine spezifische Forschungsfrage oder dein Thema relevant sein könnten.\n- **Ethische Überlegungen**: Berücksichtige die ethischen Implikationen deiner KI-Nutzung. Stelle sicher, dass du die Privatsphäre der beteiligten Personen respektierst und keine schädlichen oder diskriminierenden Inhalte erstellst.\n- **Unterstützung**: Wenn du unsicher bist, wie du KI in deiner Arbeit einsetzen sollst, zögere nicht, deine Betreuer oder Dozenten um Rat zu fragen. Sie können dir wertvolle Hinweise und Richtlinien geben.\n\n**Fazit**\n\nDer verantwortungsvolle Umgang mit KI in deiner Bachelorarbeit erfordert Transparenz, eine klare Dokumentation und eine kritische Bewertung der Ergebnisse. Durch die Beachtung dieser Richtlinien und Tipps kannst du die Vorteile von KI nutzen, um deine Forschung zu unterstützen und gleichzeitig die Integrität und Qualität deiner Arbeit zu gewährleisten.",
+    "passages": [],
+    "distances": [],
+    "retrieval_time": 0.27153730392456055,
+    "llm_time": 2.594060182571411,
+    "from_cache": false
   }
 }
